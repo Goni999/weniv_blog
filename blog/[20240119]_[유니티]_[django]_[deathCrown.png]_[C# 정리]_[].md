@@ -3,7 +3,7 @@
 * hello world 1
 * hello world 2
 
-![제주도 이미지](img/deathCrown.jpg)
+![제주도 이미지](img/deathCrown.png)
 
 ```python
 print('Boxing, UnBoxing')
